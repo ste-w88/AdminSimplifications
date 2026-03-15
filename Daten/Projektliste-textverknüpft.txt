@@ -1,0 +1,199 @@
+4.2.02;G1.2;Wandmauer Foppa;Auszug_aus_der_Landeskarte
+4.2.04;G2.2;Wandmauer Foppa;Bauwerksskizzen
+4.2.06;G5.2;Wandmauer Foppa;Überprüfungsbericht
+4.2.08;G6.2;Wandmauer Foppa;Nutzungsvereinbarung
+4.2.10;G7.2;Wandmauer Foppa;Projektbasis
+4.2.12;G8.2;Wandmauer Foppa;Technischer_Bericht
+4.2.14;G9.2;Wandmauer Foppa;Faktenblatt Erhaltungsvariante
+4.2.16;G12.2;Wandmauer Foppa;Schadensplan
+4.2.18;G14.2;Wandmauer Foppa;Massnahmenplan
+4.2.20;G23.2;Wandmauer Foppa;Statische_Berechnungen
+4.5.01;G1.1;Stützmauer Nesslaboden I;Auszug_aus_der_Landeskarte
+4.5.02;G1.2;Wandmauer Nesslaboden I;Auszug_aus_der_Landeskarte
+4.5.03;G1.3;Wandmauer Nesslaboden II;Auszug_aus_der_Landeskarte
+4.5.04;G1.4;Wandmauer Nesslaboden III;Auszug_aus_der_Landeskarte
+4.5.05;G1.5;Stützmauer Nesslaboden II;Auszug_aus_der_Landeskarte
+4.5.06;G1.6;Stützmauer Nesslaboden III;Auszug_aus_der_Landeskarte
+4.5.07;G1.7;Stützmauer Nesslaboden IV;Auszug_aus_der_Landeskarte
+4.5.08;G1.8;Wandmauer Colra I;Auszug_aus_der_Landeskarte
+4.5.09;G1.9;Wandmauer Colra II;Auszug_aus_der_Landeskarte
+4.5.10;G1.10;Stützmauer Colra;Auszug_aus_der_Landeskarte
+4.5.11;G2.1;Stützmauer Nesslaboden I;Bauwerksskizzen
+4.5.12;G2.2;Wandmauer Nesslaboden I;Bauwerksskizzen
+4.5.13;G2.3;Wandmauer Nesslaboden II;Bauwerksskizzen
+4.5.14;G2.4;Wandmauer Nesslaboden III;Bauwerksskizzen
+4.5.15;G2.5;Stützmauer Nesslaboden II;Bauwerksskizzen
+4.5.16;G2.6;Stützmauer Nesslaboden III;Bauwerksskizzen
+4.5.17;G2.7;Stützmauer Nesslaboden IV;Bauwerksskizzen
+4.5.18;G2.8;Wandmauer Colra I;Bauwerksskizzen
+4.5.19;G2.9;Wandmauer Colra II;Bauwerksskizzen
+4.5.20;G2.10;Stützmauer Colra;Bauwerksskizzen
+4.5.21;G5.1;Stützmauer Nesslaboden I;Überprüfungsbericht
+4.5.22;G5.2;Wandmauer Nesslaboden I;Überprüfungsbericht
+4.5.23;G5.3;Wandmauer Nesslaboden II;Überprüfungsbericht
+4.5.24;G5.4;Wandmauer Nesslaboden III;Überprüfungsbericht
+4.5.25;G5.5;Stützmauer Nesslaboden II;Überprüfungsbericht
+4.5.26;G5.6;Stützmauer Nesslaboden III;Überprüfungsbericht
+4.5.27;G5.7;Stützmauer Nesslaboden IV;Überprüfungsbericht
+4.5.28;G5.8;Wandmauer Colra I;Überprüfungsbericht
+4.5.29;G5.9;Wandmauer Colra II;Überprüfungsbericht
+4.5.30;G5.10;Stützmauer Colra;Überprüfungsbericht
+4.5.31;G6.1;Stützmauer Nesslaboden I;Nutzungsvereinbarung
+4.5.32;G6.2;Wandmauer Nesslaboden I;Nutzungsvereinbarung
+4.5.33;G6.3;Wandmauer Nesslaboden II;Nutzungsvereinbarung
+4.5.34;G6.4;Wandmauer Nesslaboden III;Nutzungsvereinbarung
+4.5.35;G6.5;Stützmauer Nesslaboden II;Nutzungsvereinbarung
+4.5.36;G6.6;Stützmauer Nesslaboden III;Nutzungsvereinbarung
+4.5.37;G6.7;Stützmauer Nesslaboden IV;Nutzungsvereinbarung
+4.5.38;G6.8;Wandmauer Colra I;Nutzungsvereinbarung
+4.5.39;G6.9;Wandmauer Colra II;Nutzungsvereinbarung
+4.5.40;G6.10;Stützmauer Colra;Nutzungsvereinbarung
+4.5.41;G7.1;Stützmauer Nesslaboden I;Projektbasis
+4.5.42;G7.2;Wandmauer Nesslaboden I;Projektbasis
+4.5.43;G7.3;Wandmauer Nesslaboden II;Projektbasis
+4.5.44;G7.4;Wandmauer Nesslaboden III;Projektbasis
+4.5.45;G7.5;Stützmauer Nesslaboden II;Projektbasis
+4.5.46;G7.6;Stützmauer Nesslaboden III;Projektbasis
+4.5.47;G7.7;Stützmauer Nesslaboden IV;Projektbasis
+4.5.48;G7.8;Wandmauer Colra I;Projektbasis
+4.5.49;G7.9;Wandmauer Colra II;Projektbasis
+4.5.50;G7.10;Stützmauer Colra;Projektbasis
+4.5.51;G8.1;Stützmauer Nesslaboden I;Technischer_Bericht
+4.5.52;G8.2;Wandmauer Nesslaboden I;Technischer_Bericht
+4.5.53;G8.3;Wandmauer Nesslaboden II;Technischer_Bericht
+4.5.54;G8.4;Wandmauer Nesslaboden III;Technischer_Bericht
+4.5.55;G8.5;Stützmauer Nesslaboden II;Technischer_Bericht
+4.5.56;G8.6;Stützmauer Nesslaboden III;Technischer_Bericht
+4.5.57;G8.7;Stützmauer Nesslaboden IV;Technischer_Bericht
+4.5.58;G8.8;Wandmauer Colra I;Technischer_Bericht
+4.5.59;G8.9;Wandmauer Colra II;Technischer_Bericht
+4.5.60;G8.10;Stützmauer Colra;Technischer_Bericht
+4.5.61;G9.1;Stützmauer Nesslaboden I;Faktenblatt Erhaltungsvariante
+4.5.62;G9.2;Wandmauer Nesslaboden I;Faktenblatt Erhaltungsvariante
+4.5.63;G9.3;Wandmauer Nesslaboden II;Faktenblatt Erhaltungsvariante
+4.5.64;G9.4;Wandmauer Nesslaboden III;Faktenblatt Erhaltungsvariante
+4.5.65;G9.5;Stützmauer Nesslaboden II;Faktenblatt Erhaltungsvariante
+4.5.66;G9.6;Stützmauer Nesslaboden III;Faktenblatt Erhaltungsvariante
+4.5.67;G9.7;Stützmauer Nesslaboden IV;Faktenblatt Erhaltungsvariante
+4.5.68;G9.8;Wandmauer Colra I;Faktenblatt Erhaltungsvariante
+4.5.69;G9.9;Wandmauer Colra II;Faktenblatt Erhaltungsvariante
+4.5.70;G9.10;Stützmauer Colra;Faktenblatt Erhaltungsvariante
+4.5.71;G12.1;Stützmauer Nesslaboden I;Schadensplan
+4.5.72;G12.2;Wandmauer Nesslaboden I;Schadensplan
+4.5.73;G12.3;Wandmauer Nesslaboden II;Schadensplan
+4.5.74;G12.4;Wandmauer Nesslaboden III;Schadensplan
+4.5.75;G12.5;Stützmauer Nesslaboden II;Schadensplan
+4.5.76;G12.6;Stützmauer Nesslaboden III;Schadensplan
+4.5.77;G12.7;Stützmauer Nesslaboden IV;Schadensplan
+4.5.78;G12.8;Wandmauer Colra I;Schadensplan
+4.5.79;G12.9;Wandmauer Colra II;Schadensplan
+4.5.80;G12.10;Stützmauer Colra;Schadensplan
+4.5.81;G14.1;Stützmauer Nesslaboden I;Massnahmenplan
+4.5.82;G14.2;Wandmauer Nesslaboden I;Massnahmenplan
+4.5.83;G14.3;Wandmauer Nesslaboden II;Massnahmenplan
+4.5.84;G14.4;Wandmauer Nesslaboden III;Massnahmenplan
+4.5.85;G14.5;Stützmauer Nesslaboden II;Massnahmenplan
+4.5.86;G14.6;Stützmauer Nesslaboden III;Massnahmenplan
+4.5.87;G14.7;Stützmauer Nesslaboden IV;Massnahmenplan
+4.5.88;G14.8;Wandmauer Colra I;Massnahmenplan
+4.5.89;G14.9;Wandmauer Colra II;Massnahmenplan
+4.5.90;G14.10;Stützmauer Colra;Massnahmenplan
+4.5.92;G23.1;Stützmauer Nesslaboden I;Statische_Berechnungen
+4.5.93;G23.2;Wandmauer Nesslaboden I;Statische_Berechnungen
+4.5.94;G23.3;Wandmauer Nesslaboden II;Statische_Berechnungen
+4.5.95;G23.4;Wandmauer Nesslaboden III;Statische_Berechnungen
+4.5.96;G23.5;Stützmauer Nesslaboden II;Statische_Berechnungen
+4.5.97;G23.6;Stützmauer Nesslaboden III;Statische_Berechnungen
+4.5.98;G23.7;Stützmauer Nesslaboden IV;Statische_Berechnungen
+4.5.99;G23.8;Wandmauer Colra I;Statische_Berechnungen
+4.5.100;G23.9;Wandmauer Colra II;Statische_Berechnungen
+4.5.101;G23.10;Stützmauer Colra;Statische_Berechnungen
+4.7.01;G1.1;Stützmauer Ausstellplatz Ost;Auszug_aus_der_Landeskarte
+4.7.02;G1.2;Stützmauer Compogna VIII;Auszug_aus_der_Landeskarte
+4.7.03;G1.3;Stützmauer Compogna VII;Auszug_aus_der_Landeskarte
+4.7.04;G1.4;Stützmauer Compogna VI;Auszug_aus_der_Landeskarte
+4.7.05;G1.5;Stützmauer Compogna V;Auszug_aus_der_Landeskarte
+4.7.06;G1.6;Stützmauer Nolla IV;Auszug_aus_der_Landeskarte
+4.7.07;G1.7;Stützmauer Hinterrheinbrücke I;Auszug_aus_der_Landeskarte
+4.7.08;G1.8;Stützmauer Hinterrheinbrücke II;Auszug_aus_der_Landeskarte
+4.7.09;G2.1;Stützmauer Ausstellplatz Ost;Bauwerksskizzen
+4.7.10;G2.2;Stützmauer Compogna VIII;Bauwerksskizzen
+4.7.11;G2.3;Stützmauer Compogna VII;Bauwerksskizzen
+4.7.12;G2.4;Stützmauer Compogna VI;Bauwerksskizzen
+4.7.13;G2.5;Stützmauer Compogna V;Bauwerksskizzen
+4.7.14;G2.6;Stützmauer Nolla IV;Bauwerksskizzen
+4.7.15;G2.7;Stützmauer Hinterrheinbrücke I;Bauwerksskizzen
+4.7.16;G2.8;Stützmauer Hinterrheinbrücke II;Bauwerksskizzen
+4.7.17;G5.1;Stützmauer Ausstellplatz Ost;Überprüfungsbericht
+4.7.18;G5.2;Stützmauer Compogna VIII;Überprüfungsbericht
+4.7.19;G5.3;Stützmauer Compogna VII;Überprüfungsbericht
+4.7.20;G5.4;Stützmauer Compogna VI;Überprüfungsbericht
+4.7.21;G5.5;Stützmauer Compogna V;Überprüfungsbericht
+4.7.22;G5.6;Stützmauer Nolla IV;Überprüfungsbericht
+4.7.23;G5.7;Stützmauer Hinterrheinbrücke I;Überprüfungsbericht
+4.7.24;G5.8;Stützmauer Hinterrheinbrücke II;Überprüfungsbericht
+4.7.25;G6.1;Stützmauer Ausstellplatz Ost;Nutzungsvereinbarung
+4.7.26;G6.2;Stützmauer Compogna VIII;Nutzungsvereinbarung
+4.7.27;G6.3;Stützmauer Compogna VII;Nutzungsvereinbarung
+4.7.28;G6.4;Stützmauer Compogna VI;Nutzungsvereinbarung
+4.7.29;G6.5;Stützmauer Compogna V;Nutzungsvereinbarung
+4.7.30;G6.6;Stützmauer Nolla IV;Nutzungsvereinbarung
+4.7.31;G6.7;Stützmauer Hinterrheinbrücke I;Nutzungsvereinbarung
+4.7.32;G6.8;Stützmauer Hinterrheinbrücke II;Nutzungsvereinbarung
+4.7.33;G7.1;Stützmauer Ausstellplatz Ost;Projektbasis
+4.7.34;G7.2;Stützmauer Compogna VIII;Projektbasis
+4.7.35;G7.3;Stützmauer Compogna VII;Projektbasis
+4.7.36;G7.4;Stützmauer Compogna VI;Projektbasis
+4.7.37;G7.5;Stützmauer Compogna V;Projektbasis
+4.7.38;G7.6;Stützmauer Nolla IV;Projektbasis
+4.7.39;G7.7;Stützmauer Hinterrheinbrücke I;Projektbasis
+4.7.40;G7.8;Stützmauer Hinterrheinbrücke II;Projektbasis
+4.7.41;G8.1;Stützmauer Ausstellplatz Ost;Technischer_Bericht
+4.7.42;G8.2;Stützmauer Compogna VIII;Technischer_Bericht
+4.7.43;G8.3;Stützmauer Compogna VII;Technischer_Bericht
+4.7.44;G8.4;Stützmauer Compogna VI;Technischer_Bericht
+4.7.45;G8.5;Stützmauer Compogna V;Technischer_Bericht
+4.7.46;G8.6;Stützmauer Nolla IV;Technischer_Bericht
+4.7.47;G8.7;Stützmauer Hinterrheinbrücke I;Technischer_Bericht
+4.7.48;G8.8;Stützmauer Hinterrheinbrücke II;Technischer_Bericht
+4.7.49;G9.1;Stützmauer Ausstellplatz Ost;Faktenblatt Erhaltungsvariante
+4.7.50;G9.2;Stützmauer Compogna VIII;Faktenblatt Erhaltungsvariante
+4.7.51;G9.3;Stützmauer Compogna VII;Faktenblatt Erhaltungsvariante
+4.7.52;G9.4;Stützmauer Compogna VI;Faktenblatt Erhaltungsvariante
+4.7.53;G9.5;Stützmauer Compogna V;Faktenblatt Erhaltungsvariante
+4.7.54;G9.6;Stützmauer Nolla IV;Faktenblatt Erhaltungsvariante
+4.7.55;G9.7;Stützmauer Hinterrheinbrücke I;Faktenblatt Erhaltungsvariante
+4.7.56;G9.8;Stützmauer Hinterrheinbrücke II;Faktenblatt Erhaltungsvariante
+4.7.57;G12.1;Stützmauer Ausstellplatz Ost;Schadensplan
+4.7.58;G12.2;Stützmauer Compogna VIII;Schadensplan
+4.7.59;G12.3;Stützmauer Compogna VII;Schadensplan
+4.7.60;G12.4;Stützmauer Compogna VI;Schadensplan
+4.7.61;G12.5;Stützmauer Compogna V;Schadensplan
+4.7.62;G12.6;Stützmauer Nolla IV;Schadensplan
+4.7.63;G12.7;Stützmauer Hinterrheinbrücke I;Schadensplan
+4.7.64;G12.8;Stützmauer Hinterrheinbrücke II;Schadensplan
+4.7.65;G14.1;Stützmauer Ausstellplatz Ost;Massnahmenplan
+4.7.66;G14.2;Stützmauer Compogna VIII;Massnahmenplan
+4.7.67;G14.3;Stützmauer Compogna VII;Massnahmenplan
+4.7.68;G14.4;Stützmauer Compogna VI;Massnahmenplan
+4.7.69;G14.5;Stützmauer Compogna V;Massnahmenplan
+4.7.70;G14.6;Stützmauer Nolla IV;Massnahmenplan
+4.7.71;G14.7;Stützmauer Hinterrheinbrücke I;Massnahmenplan
+4.7.72;G14.8;Stützmauer Hinterrheinbrücke II;Massnahmenplan
+4.7.73;G23.1;Stützmauer Ausstellplatz Ost;Statische_Berechnungen
+4.7.74;G23.2;Stützmauer Compogna VIII;Statische_Berechnungen
+4.7.75;G23.3;Stützmauer Compogna VII;Statische_Berechnungen
+4.7.76;G23.4;Stützmauer Compogna VI;Statische_Berechnungen
+4.7.77;G23.5;Stützmauer Compogna V;Statische_Berechnungen
+4.7.78;G23.6;Stützmauer Nolla IV;Statische_Berechnungen
+4.7.79;G23.7;Stützmauer Hinterrheinbrücke I;Statische_Berechnungen
+4.7.80;G23.8;Stützmauer Hinterrheinbrücke II;Statische_Berechnungen
+5.4.12;K8.1;Stützmauer Umleitungsstollen Bargiasbach;Auszug_aus_der_Landeskarte
+5.4.13;K8.2;Stützmauer Umleitungsstollen Bargiasbach;Bauwerksskizzen
+5.4.03;K2;Stützmauer Umleitungsstollen Bargiasbach;Überprüfungsbericht
+5.4.04;K3.1;Stützmauer Umleitungsstollen Bargiasbach;Nutzungsvereinbarung
+5.4.05;K3.2;Stützmauer Umleitungsstollen Bargiasbach;Projektbasis
+5.4.06;K4;Stützmauer Umleitungsstollen Bargiasbach;Technischer_Bericht
+5.4.14;K8.3;Stützmauer Umleitungsstollen Bargiasbach;Schadensplan
+5.4.16;K8.5;Stützmauer Umleitungsstollen Bargiasbach;Massnahmenplan
+5.4.28;K9.8;Stützmauer Umleitungsstollen Bargiasbach;Statische_Berechnungen
