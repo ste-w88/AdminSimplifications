@@ -324,7 +324,7 @@ project_index = build_project_index(project_list)
 
 
 ## Files ermitteln
-letter_starts = ["01"]
+letter_starts = ["02"]
 main_folders = mainFolders(letter_starts)
 #main_folders = [project_folder]
 
